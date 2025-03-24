@@ -1,6 +1,6 @@
 # Week 15 Headstarter Accelerator Project 15 AI Agent Builder
 *I have done AI Agent chatbot in Google Colab, but not in the Sim Studio GitHub repo.*
-*I have not done the challenge. I have integrated AI Agent with MCP (Model Context Protocol), but it doesn't work like I expected*
+*I have not done the challenge. I have integrated AI Agent with MCP (Model Context Protocol), but it doesn't work like I expected.*
 ## Project Statemant
 Sim Studio is a powerful, user-friendly platform that allows developers and agents to build, test, and optimize agentic workflows. The company was founded by Waleed, an Ex-Amazon Software Engineer and Emir, who scaled a product to 300k users and built the first chain-of-thought LLM application. The company has been accepted into the latest YCombinator batch and has an up and coming developer community.
 
